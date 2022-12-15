@@ -12,13 +12,13 @@ npm i @harukinguyen/validatorjs
 
 With **yarn**.
 
-```yarn
+```bash
 yarn add @harukinguyen/validatorjs
 ```
 
 With **pnpm**.
 
-```pnpm
+```bash
 pnpm i @harukinguyen/validatorjs
 ```
 
@@ -79,7 +79,7 @@ The second element is an array of objects, each object contain information about
 
 _With `main.js` and `node_modules` in root directory_.
 
-```javscript
+```javascript
 @import Validator from './node_modules/@harukinguyen/validatorjs/main.js';
 
 const validateInformation = Validator(listOfElement);
