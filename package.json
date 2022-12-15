@@ -3,7 +3,6 @@
   "version": "1.0.1",
   "description": "A small javascript library use to validate form controls.",
   "main": "./dist/main.bundle.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
     "build": "webpack"
