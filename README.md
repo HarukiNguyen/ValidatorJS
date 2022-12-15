@@ -19,7 +19,7 @@ yarn add @harukinguyen/validatorjs
 With **pnpm**.
 
 ```pnpm
-pnpm install @harukinguyen/validatorjs
+pnpm i @harukinguyen/validatorjs
 ```
 
 ## Usage
