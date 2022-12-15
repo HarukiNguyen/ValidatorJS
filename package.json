@@ -1,6 +1,6 @@
 {
   "name": "@harukinguyen/validatorjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A small javascript library use to validate form controls.",
   "main": "./dist/main.bundle.js",
   "scripts": {
