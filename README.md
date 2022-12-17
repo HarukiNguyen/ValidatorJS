@@ -125,5 +125,6 @@ You can use these result to hanlde how the form should "react".
 ## ✅ Todo
 
 - [x] Complete docs.
+- [ ] Fix mime type error.
 - [ ] Make the package dynamically importable.
 - [ ] Add logic for handle login form.
