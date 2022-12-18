@@ -1,4 +1,5 @@
 export default function Validator(elements) {
+  // ojbect contain validating information
   const invalidInfos = {};
   elements.forEach(element => {
     const invalidInfo = {};
