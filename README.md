@@ -128,3 +128,5 @@ You can use these result to hanlde how the form should "react".
 - [ ] Fix mime type error.
 - [ ] Make the package dynamically importable.
 - [ ] Add logic for handle login form.
+
+## Have a nice day 🍀
